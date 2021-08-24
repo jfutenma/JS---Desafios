@@ -1,0 +1,35 @@
+*{
+  font-family: Roboto;
+}
+
+
+div {
+  margin-left: 33%;
+  margin-top: 30px;
+  border-radius: 5px;
+  background-color: white;
+  padding: 0.4px 20px;
+  width: 400px;
+  box-shadow: 0 0 10px gray;
+}
+
+input[type=text], select {
+  width: 400px;
+  padding: 12px;
+  margin: 9px 0 12px 0;
+  border: 1px solid #c1c1c1;
+  border-radius: 4px;
+  box-sizing: border-box;
+} 
+
+
+button {
+  width: 30%;
+  background-color: green;
+  color: white;
+  padding: 16px;
+  margin: 8px 35%;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
